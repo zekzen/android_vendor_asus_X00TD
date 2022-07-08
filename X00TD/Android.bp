@@ -452,10 +452,3 @@ dex_import {
 	jars: ["proprietary/system_ext/framework/vendor.qti.hardware.soter-V1.0-java.jar"],
 	system_ext_specific: true,
 }
-
-dex_import {
-	name: "vendor.qti.hardware.fingerprint-V1.0-java",
-	owner: "asus",
-	jars: ["proprietary/product/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar"],
-	product_specific: true,
-}
